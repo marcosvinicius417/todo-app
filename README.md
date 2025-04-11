@@ -41,6 +41,8 @@ Uma aplicação de gerenciamento de tarefas (TODO) desenvolvida com Laravel. Os 
    ```bash
     npm run dev
     ```
+   
+Apos rodar o VITE abre um novo terminal e faça os seguintes passos:
 
 4. Copie o arquivo `.env.example` para `.env`:
 
