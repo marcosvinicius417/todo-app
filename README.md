@@ -35,7 +35,11 @@ Uma aplicação de gerenciamento de tarefas (TODO) desenvolvida com Laravel. Os 
 3. Instale as dependências frontend:
 
     ```bash
-    npm install && npm run dev
+    npm install
+    ```
+
+   ```bash
+    npm run dev
     ```
 
 4. Copie o arquivo `.env.example` para `.env`:
@@ -67,7 +71,7 @@ Uma aplicação de gerenciamento de tarefas (TODO) desenvolvida com Laravel. Os 
 9. Inicie o servidor Laravel:
 
     ```bash
-    php artisan serve
+     php -S 127.0.0.1:8000 -t public
     ```
 
 10. Acesse o sistema:
