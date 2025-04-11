@@ -22,7 +22,7 @@ Uma aplicação de gerenciamento de tarefas (TODO) desenvolvida com Laravel. Os 
 1. Clone o repositório:
 
     ```bash
-    git clone [https://github.com/seu-usuario/todo-app.git](https://github.com/marcosvinicius417/todo-app)
+    git clone [https://github.com/marcosvinicius417/todo-app]
     cd todo-app
     ```
 
